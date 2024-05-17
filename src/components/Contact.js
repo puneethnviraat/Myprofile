@@ -8,7 +8,7 @@ const Contact = () => {
   return (
     <div className="m-4">
       <div className=" card  bg-base-100 shadow-xl">
-        <h2 className="mt-4 text-4xl text-center font-extrabold leading-none bg-gradient-to-r bg-gradient-to-r bg-gradient-to-tr from-violet-500 to-orange-300 bg-clip-text text-transparent">
+        <h2 className="mt-4 text-4xl text-center font-extrabold leading-none bg-gradient-to-r bg-gradient-to-tr from-violet-500 to-orange-300 bg-clip-text text-transparent">
           Contact Me
         </h2>
         <div className="m-3 text-center">
